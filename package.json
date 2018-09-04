@@ -1,0 +1,36 @@
+{
+  "name": "react-native-shared-bridge",
+  "title": "React Native Shared Bridge",
+  "version": "0.5.0",
+  "description": "A manager to share an RCTBridge across the application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maicki/react-native-shared-bridge.git",
+    "baseUrl": "https://github.com/maicki/react-native-shared-bridge"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "ios"
+  ],
+  "nativePackage": true,
+  "author": {
+    "name": "Michael Schneider",
+    "email": "mischneider1@gmail.com"
+  },
+  "license": "Apache-2.0",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.0.0",
+    "react-native": ">=0.50.0"
+  },
+  "devDependencies": {
+    "react": "^16.0.0",
+    "react-native": "^0.50.0"
+  }
+}
